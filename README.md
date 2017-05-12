@@ -1,3 +1,5 @@
+### This code is associated with the paper "EM connectomics reveals axonal target variation in a sequence-generating network". eLife, 2017. http://dx.doi.org/10.7554/eLife.24364
+
 # knossos_utils
 This repository serves as a place for python code that interacts with **KNOSSOS** data sets or annotation files. However, the code here is standalone and you won't find **KNOSSOS-Plugins** here (but feel free to be inspired by it when writing plugins).
 
